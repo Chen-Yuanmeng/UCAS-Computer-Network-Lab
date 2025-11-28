@@ -17,6 +17,7 @@
 | `05-stp` | 实验5: 生成树协议 (Spanning Tree Protocol, STP) 实验 |
 | `06-bufferbloat` | 实验6: 数据包队列管理实验 |
 | `07-router` | 实验7: 路由器转发实验 |
+| `09-mospf` | 实验9: 链路状态路由协议 (MOSPF) 实验, 实现简单的动态路由 |
 
 ## 致谢
 
